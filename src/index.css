@@ -1,0 +1,24 @@
+.new-post-wrapper {
+    width: 90%;
+    height: 300px;
+    border: 1px solid darkgray;
+    margin: 0 auto;
+}
+
+.new-post-wrapper input {
+    width: 90%;
+    height: 1.5em;
+    margin: 20px auto;
+    display: block;
+}
+
+.new-post-wrapper button {
+    display: block;
+    margin: 0 auto;
+}
+
+.new-post-wrapper textarea {
+    margin: 0 auto;
+    width: 90%;
+    display: block;
+}
